@@ -1,0 +1,872 @@
+[
+  {
+    "id": 5,
+    "title": "Classic Black Hooded Sweatshirt",
+    "price": 79,
+    "rating": 4.5,
+    "description": "Elevate your casual wardrobe with our Classic Black Hooded Sweatshirt. Made from high-quality, soft fabric that ensures comfort and durability, this hoodie features a spacious kangaroo pocket and an adjustable drawstring hood. Its versatile design makes it perfect for a relaxed day at home or a casual outing.",
+    "images": [
+      "https://i.imgur.com/cSytoSD.jpeg",
+      "https://i.imgur.com/WwKucXb.jpeg",
+      "https://i.imgur.com/cE2Dxh9.jpeg"
+    ],
+    "reviews": [
+      {
+        "user": "ComfortSeeker",
+        "rating": 5,
+        "comment": "This hoodie is everything I wanted! Super soft and warm, perfect for chilly evenings. The pocket is spacious enough for my phone and keys."
+      },
+      {
+        "user": "CasualStyle",
+        "rating": 4,
+        "comment": "Great quality and fits well. Only giving 4 stars because the drawstrings are a bit long for my taste."
+      },
+      {
+        "user": "QualityFirst",
+        "rating": 5,
+        "comment": "After multiple washes, it still looks brand new. The black color hasn't faded at all. Definitely worth the investment!"
+      },
+      {
+        "user": "WeekendWarrior",
+        "rating": 3,
+        "comment": "Decent hoodie but runs a bit large. Consider sizing down if you want a more fitted look."
+      },
+      {
+        "user": "StyleEnthusiast",
+        "rating": 5,
+        "comment": "Perfect basic black hoodie. Looks great with everything and the material is thick enough for cold days."
+      }
+    ],
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Classic Red Jogger Sweatpants",
+    "price": 98,
+    "rating": 4.2,
+    "description": "Experience ultimate comfort with our red jogger sweatpants, perfect for both workout sessions and lounging around the house. Made with soft, durable fabric, these joggers feature a snug waistband, adjustable drawstring, and practical side pockets for functionality. Their tapered design and elastic cuffs offer a modern fit that keeps you looking stylish on the go.",
+    "images": [
+      "https://i.imgur.com/9LFjwpI.jpeg",
+      "https://i.imgur.com/vzrTgUR.jpeg",
+      "https://i.imgur.com/p5NdI6n.jpeg"
+    ],
+    "reviews": [
+      {
+        "user": "FitnessFreak",
+        "rating": 5,
+        "comment": "These joggers are perfect for my morning workouts! The material is breathable yet warm enough for outdoor runs."
+      },
+      {
+        "user": "ComfortQueen",
+        "rating": 4,
+        "comment": "Love the fit and feel, but the red color is slightly brighter than expected. Still great pants though!"
+      },
+      {
+        "user": "ActiveLifestyle",
+        "rating": 5,
+        "comment": "The pockets are deep enough to hold my phone securely while running. These have become my go-to workout pants."
+      },
+      {
+        "user": "CasualComfort",
+        "rating": 3,
+        "comment": "Comfortable but the price point is a bit high for what you get. Decent quality though."
+      },
+      {
+        "user": "StyleAndSport",
+        "rating": 5,
+        "comment": "Perfect fit with the tapered legs. Can wear these to the gym or casual outings. Very versatile!"
+      }
+    ],
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Classic Navy Blue Baseball Cap",
+    "price": 61,
+    "rating": 4,
+    "description": "Step out in style with this sleek navy blue baseball cap. Crafted from durable material, it features a smooth, structured design and an adjustable strap for the perfect fit. Protect your eyes from the sun and complement your casual looks with this versatile and timeless accessory.",
+    "images": [
+      "https://i.imgur.com/R3iobJA.jpeg",
+      "https://i.imgur.com/Wv2KTsf.jpeg",
+      "https://i.imgur.com/76HAxcA.jpeg"
+    ],
+    "reviews": [
+      {
+        "user": "HatCollector",
+        "rating": 4,
+        "comment": "Great quality cap with a nice deep navy color. The adjustable strap makes it easy to find the perfect fit."
+      },
+      {
+        "user": "SunProtection",
+        "rating": 5,
+        "comment": "Perfect for sunny days! The brim is sturdy and provides great shade. Material feels premium."
+      },
+      {
+        "user": "CasualStyle",
+        "rating": 5,
+        "comment": "This has become my favorite cap. Looks great with everything and holds its shape well."
+      },
+      {
+        "user": "SportsFan",
+        "rating": 3,
+        "comment": "Decent cap but a bit pricey for what it is. The navy color is nice though."
+      },
+      {
+        "user": "OutdoorEnthusiast",
+        "rating": 5,
+        "comment": "Excellent quality! Survived multiple washes without losing its color or shape."
+      }
+    ],
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Classic Red Baseball Cap",
+    "price": 35,
+    "rating": 5,
+    "description": "Elevate your casual wardrobe with this timeless red baseball cap. Crafted from durable fabric, it features a comfortable fit with an adjustable strap at the back, ensuring one size fits all. Perfect for sunny days or adding a sporty touch to your outfit.",
+    "images": [
+      "https://i.imgur.com/cBuLvBi.jpeg",
+      "https://i.imgur.com/N1GkCIR.jpeg",
+      "https://i.imgur.com/kKc9A5p.jpeg"
+    ],
+    "reviews": [
+      {
+        "user": "SportyStyle",
+        "rating": 5,
+        "comment": "Fantastic value for money! The red color is vibrant and the fit is perfect with the adjustable strap."
+      },
+      {
+        "user": "DailyWearer",
+        "rating": 4,
+        "comment": "Good quality cap for the price. Been wearing it for months and it still looks great."
+      },
+      {
+        "user": "SunLover",
+        "rating": 5,
+        "comment": "Great sun protection and the color doesn't fade even with regular use. Really happy with this purchase!"
+      },
+      {
+        "user": "BudgetBuyer",
+        "rating": 4,
+        "comment": "Excellent price point for the quality. The adjustable strap makes it very comfortable."
+      },
+      {
+        "user": "CasualUser",
+        "rating": 3,
+        "comment": "It's a decent basic cap. Nothing extraordinary but gets the job done."
+      }
+    ],
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Classic Olive Chino Shorts",
+    "price": 84,
+    "rating": 4.3,
+    "description": "Elevate your casual wardrobe with these classic olive chino shorts. Designed for comfort and versatility, they feature a smooth waistband, practical pockets, and a tailored fit that makes them perfect for both relaxed weekends and smart-casual occasions. The durable fabric ensures they hold up throughout your daily activities while maintaining a stylish look.",
+    "images": [
+      "https://i.imgur.com/UsFIvYs.jpeg",
+      "https://i.imgur.com/YIq57b6.jpeg"
+    ],
+    "reviews": [
+      {
+        "user": "SummerStyle",
+        "rating": 5,
+        "comment": "Perfect length and the olive color goes with everything. The material is substantial and feels premium."
+      },
+      {
+        "user": "CasualComfort",
+        "rating": 4,
+        "comment": "Great fit and quality, though a bit pricey. The pockets are deep and practical."
+      },
+      {
+        "user": "WeekendVibes",
+        "rating": 5,
+        "comment": "These shorts are amazing! Dressy enough for casual office days but comfortable enough for weekend wear."
+      },
+      {
+        "user": "QualitySeeker",
+        "rating": 4,
+        "comment": "Well-made shorts with good attention to detail. The waistband is particularly comfortable."
+      },
+      {
+        "user": "StyleConscious",
+        "rating": 3,
+        "comment": "Nice shorts but run a bit small. Consider sizing up for a more comfortable fit."
+      }
+    ],
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Classic High-Waisted Athletic Shorts",
+    "price": 43,
+    "rating": 4.7,
+    "description": "Stay comfortable and stylish with our Classic High-Waisted Athletic Shorts. Designed for optimal movement and versatility, these shorts are a must-have for your workout wardrobe. Featuring a figure-flattering high waist, breathable fabric, and a secure fit that ensures they stay in place during any activity, these shorts are perfect for the gym, running, or even just casual wear.",
+    "images": [
+      "https://i.imgur.com/eGOUveI.jpeg",
+      "https://i.imgur.com/UcsGO7E.jpeg",
+      "https://i.imgur.com/NLn4e7S.jpeg"
+    ],
+    "reviews": [
+      {
+        "user": "FitnessFanatic",
+        "rating": 5,
+        "comment": "These shorts are perfect for my HIIT workouts! They stay in place and the high waist is super flattering."
+      },
+      {
+        "user": "YogaLover",
+        "rating": 4,
+        "comment": "Great for yoga sessions. The fabric is breathable and moves well with you."
+      },
+      {
+        "user": "GymGoer",
+        "rating": 5,
+        "comment": "Love these! The high waist stays put during squats and running. Will buy more colors!"
+      },
+      {
+        "user": "ActiveMom",
+        "rating": 5,
+        "comment": "Perfect for both workouts and running errands. The price point is great for the quality."
+      },
+      {
+        "user": "RunningEnthusiast",
+        "rating": 4,
+        "comment": "Good running shorts though they run a bit small. Size up for a more comfortable fit."
+      }
+    ],
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Classic White Crew Neck T-Shirt",
+    "price": 39,
+    "rating": 4.8,
+    "description": "Elevate your basics with this versatile white crew neck tee. Made from a soft, breathable cotton blend, it offers both comfort and durability. Its sleek, timeless design ensures it pairs well with virtually any outfit. Ideal for layering or wearing on its own, this t-shirt is a must-have staple for every wardrobe.",
+    "images": [
+      "https://i.imgur.com/axsyGpD.jpeg",
+      "https://i.imgur.com/T8oq9X2.jpeg",
+      "https://i.imgur.com/J6MinJn.jpeg"
+    ],
+    "reviews": [
+      {
+        "user": "BasicEssentials",
+        "rating": 5,
+        "comment": "Perfect white tee! The material is substantial but not too thick. Washes well without losing shape."
+      },
+      {
+        "user": "QualityBasics",
+        "rating": 4,
+        "comment": "Good quality basic tee. The fit is great and the cotton blend feels nice against the skin."
+      },
+      {
+        "user": "StyleSimplicity",
+        "rating": 5,
+        "comment": "This is my go-to white t-shirt. The crew neck sits perfectly and it's not see-through."
+      },
+      {
+        "user": "ComfortFirst",
+        "rating": 4,
+        "comment": "Comfortable and versatile. I own several of these. Just wish they were a bit more affordable."
+      },
+      {
+        "user": "CasualChic",
+        "rating": 5,
+        "comment": "Excellent quality for the price. Stays white after multiple washes with proper care."
+      }
+    ],
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Classic White Tee - Timeless Style and Comfort",
+    "price": 73,
+    "rating": 4.6,
+    "description": "Elevate your everyday wardrobe with our Classic White Tee. Crafted from premium soft cotton material, this versatile t-shirt combines comfort with durability, perfect for daily wear. Featuring a relaxed, unisex fit that flatters every body type, it's a staple piece for any casual ensemble. Easy to care for and machine washable, this white tee retains its shape and softness wash after wash. Pair it with your favorite jeans or layer it under a jacket for a smart look.",
+    "images": [
+      "https://i.imgur.com/Y54Bt8J.jpeg",
+      "https://i.imgur.com/SZPDSgy.jpeg",
+      "https://i.imgur.com/sJv4Xx0.jpeg"
+    ],
+    "reviews": [
+      {
+        "user": "PremiumSeeker",
+        "rating": 5,
+        "comment": "Worth every penny! The quality is outstanding and it really does keep its shape after washing."
+      },
+      {
+        "user": "FashionForward",
+        "rating": 4,
+        "comment": "Love the premium feel but the price is a bit steep. Still, the quality justifies it."
+      },
+      {
+        "user": "Minimalist",
+        "rating": 5,
+        "comment": "Perfect cut and drape. This is what a premium white tee should feel like."
+      },
+      {
+        "user": "QualityInvestor",
+        "rating": 5,
+        "comment": "Excellent quality cotton. You can really feel the difference compared to cheaper alternatives."
+      },
+      {
+        "user": "StyleBasics",
+        "rating": 4,
+        "comment": "Great premium basic tee. The unisex fit is flattering and versatile."
+      }
+    ],
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Classic Black T-Shirt",
+    "price": 35,
+    "rating": 4.9,
+    "description": "Elevate your everyday style with our Classic Black T-Shirt. This staple piece is crafted from soft, breathable cotton for all-day comfort. Its versatile design features a classic crew neck and short sleeves, making it perfect for layering or wearing on its own. Durable and easy to care for, it's sure to become a favorite in your wardrobe.",
+    "images": [
+      "https://i.imgur.com/9DqEOV5.jpeg",
+      "https://i.imgur.com/ae0AEYn.jpeg",
+      "https://i.imgur.com/mZ4rUjj.jpeg"
+    ],
+    "reviews": [
+      {
+        "user": "BlackTeeEnthusiast",
+        "rating": 5,
+        "comment": "Perfect black tee! The color hasn't faded after multiple washes and the fit is exactly what I wanted."
+      },
+      {
+        "user": "BasicWardrobe",
+        "rating": 4,
+        "comment": "Great everyday shirt. The material is soft and comfortable, though slightly thinner than expected."
+      },
+      {
+        "user": "StyleEssentials",
+        "rating": 5,
+        "comment": "Excellent quality for the price. I bought three of these - they're perfect for both casual wear and layering."
+      },
+      {
+        "user": "ComfortSeeker",
+        "rating": 4,
+        "comment": "Very comfortable and versatile. The crew neck sits well and doesn't stretch out after washing."
+      },
+      {
+        "user": "ValueBuyer",
+        "rating": 5,
+        "comment": "Great value for money. The fabric quality is better than expected at this price point."
+      }
+    ],
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg"
+    }
+  },
+
+  {
+    "id": 83,
+    "title": "Blue & Black Check Shirt",
+    "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+    "category": "mens-shirts",
+    "price": 29.99,
+    "rating": 4,
+    "stock": 44,
+    "tags": ["clothing", "men's shirts"],
+    "brand": "Fashion Trends",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/1.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/2.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/3.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/4.png"
+    ],
+
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommended! The fit is perfect and the material quality is excellent.",
+        "date": "2024-05-23T08:56:21.623Z",
+        "reviewerName": "Mason Parker",
+        "reviewerEmail": "mason.parker@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly impressed with the quality and style. Perfect for office wear!",
+        "date": "2024-05-22T08:56:21.623Z",
+        "reviewerName": "Avery Perez",
+        "reviewerEmail": "avery.perez@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Fast shipping and great product. The colors are vibrant and exactly as shown.",
+        "date": "2024-05-21T08:56:21.623Z",
+        "reviewerName": "Nathan Reed",
+        "reviewerEmail": "nathan.reed@x.dummyjson.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Good shirt but slightly larger than expected. Consider sizing down.",
+        "date": "2024-05-20T08:56:21.623Z",
+        "reviewerName": "James Wilson",
+        "reviewerEmail": "james.wilson@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Nice casual shirt, comfortable for daily wear. Would buy again!",
+        "date": "2024-05-19T08:56:21.623Z",
+        "reviewerName": "Lucas Thompson",
+        "reviewerEmail": "lucas.thompson@x.dummyjson.com"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Gigabyte Aorus Men Tshirt",
+    "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+    "category": "mens-shirts",
+    "price": 24.99,
+    "rating": 5,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/1.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/2.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/3.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/4.png"
+    ],
+
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Perfect gaming merchandise! The design is awesome and the quality is great.",
+        "date": "2024-05-23T08:56:21.623Z",
+        "reviewerName": "Logan Lawson",
+        "reviewerEmail": "logan.lawson@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great value for money! The fabric is breathable and comfortable.",
+        "date": "2024-05-22T08:56:21.623Z",
+        "reviewerName": "Oscar Powers",
+        "reviewerEmail": "oscar.powers@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design! Fits true to size and holds up well after washing.",
+        "date": "2024-05-21T08:56:21.623Z",
+        "reviewerName": "Ryan Martinez",
+        "reviewerEmail": "ryan.martinez@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Amazing quality and the print is really sharp. A must-have for Aorus fans!",
+        "date": "2024-05-20T08:56:21.623Z",
+        "reviewerName": "Emma Chang",
+        "reviewerEmail": "emma.chang@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations! The material is soft and the design is eye-catching.",
+        "date": "2024-05-19T08:56:21.623Z",
+        "reviewerName": "Daniel Brooks",
+        "reviewerEmail": "daniel.brooks@x.dummyjson.com"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Man Plaid Shirt",
+    "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+    "category": "mens-shirts",
+    "price": 34.99,
+    "rating": 4,
+    "stock": 65,
+    "tags": ["clothing", "men's shirts"],
+    "brand": "Classic Wear",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/1.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/2.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/3.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/4.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Average quality for the price. Pattern is nice but fabric could be better.",
+        "date": "2024-05-23T08:56:21.623Z",
+        "reviewerName": "Nora Mills",
+        "reviewerEmail": "nora.mills@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Good casual shirt. Comfortable for everyday wear.",
+        "date": "2024-05-22T08:56:21.623Z",
+        "reviewerName": "Addison Ward",
+        "reviewerEmail": "addison.ward@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Nice fit and pattern. Perfect for weekend outings!",
+        "date": "2024-05-21T08:56:21.623Z",
+        "reviewerName": "Emily Brown",
+        "reviewerEmail": "emily.brown@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Excellent plaid pattern and color combination. Gets lots of compliments!",
+        "date": "2024-05-20T08:56:21.623Z",
+        "reviewerName": "Mark Stevens",
+        "reviewerEmail": "mark.stevens@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great casual shirt, washes well and maintains shape.",
+        "date": "2024-05-19T08:56:21.623Z",
+        "reviewerName": "Alex Turner",
+        "reviewerEmail": "alex.turner@x.dummyjson.com"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Man Short Sleeve Shirt",
+    "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+    "category": "mens-shirts",
+    "price": 19.99,
+    "rating": 5,
+    "stock": 20,
+    "tags": ["clothing", "men's shirts"],
+    "brand": "Casual Comfort",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/1.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/2.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/3.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/4.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/thumbnail.png",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Perfect summer shirt! Light and breathable material.",
+        "date": "2024-05-23T08:56:21.623Z",
+        "reviewerName": "Caleb Nelson",
+        "reviewerEmail": "caleb.nelson@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great fit and very comfortable in hot weather.",
+        "date": "2024-05-22T08:56:21.623Z",
+        "reviewerName": "Emily Johnson",
+        "reviewerEmail": "emily.johnson@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Nice casual look, good quality for the price.",
+        "date": "2024-05-21T08:56:21.623Z",
+        "reviewerName": "Mila Hernandez",
+        "reviewerEmail": "mila.hernandez@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Excellent summer shirt! The fabric is light and comfortable.",
+        "date": "2024-05-20T08:56:21.623Z",
+        "reviewerName": "David Chen",
+        "reviewerEmail": "david.chen@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Perfect fit and great for casual wear. Would buy again!",
+        "date": "2024-05-19T08:56:21.623Z",
+        "reviewerName": "Sarah Williams",
+        "reviewerEmail": "sarah.williams@x.dummyjson.com"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Men Check Shirt",
+    "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+    "category": "mens-shirts",
+    "price": 27.99,
+    "rating": 3,
+    "stock": 69,
+    "tags": ["clothing", "men's shirts"],
+    "brand": "Urban Chic",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/1.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/2.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/3.png",
+      "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/4.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/thumbnail.png",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Decent shirt but sizing runs large. Consider sizing down.",
+        "date": "2024-05-23T08:56:21.623Z",
+        "reviewerName": "Elena Long",
+        "reviewerEmail": "elena.long@x.dummyjson.com"
+      },
+      {
+        "rating": 2,
+        "comment": "Color faded after first wash. Not very durable.",
+        "date": "2024-05-22T08:56:21.623Z",
+        "reviewerName": "Mason Parker",
+        "reviewerEmail": "mason.parker@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Nice pattern and good for office wear. Comfortable fit.",
+        "date": "2024-05-21T08:56:21.623Z",
+        "reviewerName": "Sofia Mitchell",
+        "reviewerEmail": "sofia.mitchell@x.dummyjson.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Average quality but good for casual wear.",
+        "date": "2024-05-20T08:56:21.623Z",
+        "reviewerName": "Tom Rodriguez",
+        "reviewerEmail": "tom.rodriguez@x.dummyjson.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Decent shirt for the price, but nothing special.",
+        "date": "2024-05-19T08:56:21.623Z",
+        "reviewerName": "Chris Morgan",
+        "reviewerEmail": "chris.morgan@x.dummyjson.com"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "price": 109.95,
+    "rating": 4,
+    "stock": 120,
+    "brand": "Fjallraven",
+    "tags": ["backpack", "laptop bag", "outdoor"],
+    "images": ["https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"],
+    "thumbnail": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Excellent laptop protection and very comfortable to carry. Perfect for daily commute.",
+        "date": "2024-05-23T08:56:21.623Z",
+        "reviewerName": "James Wilson",
+        "reviewerEmail": "james.wilson@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great quality material and craftsmanship. Worth every penny!",
+        "date": "2024-05-22T08:56:21.623Z",
+        "reviewerName": "Emma Thompson",
+        "reviewerEmail": "emma.thompson@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Spacious and well-organized. Perfect for both work and hiking.",
+        "date": "2024-05-21T08:56:21.623Z",
+        "reviewerName": "Michael Chen",
+        "reviewerEmail": "michael.chen@x.dummyjson.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Good quality but a bit pricey. Water resistance could be better.",
+        "date": "2024-05-20T08:56:21.623Z",
+        "reviewerName": "Sarah Davis",
+        "reviewerEmail": "sarah.davis@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Durable and stylish. Using it daily for 6 months with no issues.",
+        "date": "2024-05-19T08:56:21.623Z",
+        "reviewerName": "Alex Rodriguez",
+        "reviewerEmail": "alex.rodriguez@x.dummyjson.com"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "men's clothing",
+    "price": 22.3,
+    "rating": 4,
+    "stock": 259,
+    "brand": "Premium Casuals",
+    "tags": ["clothing", "t-shirts", "men's fashion"],
+    "images": [
+      "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    ],
+    "thumbnail": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Perfect fit and very comfortable material. Bought in multiple colors!",
+        "date": "2024-05-23T08:56:21.623Z",
+        "reviewerName": "Daniel Brown",
+        "reviewerEmail": "daniel.brown@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great quality for the price. Holds up well after washing.",
+        "date": "2024-05-22T08:56:21.623Z",
+        "reviewerName": "Ryan Miller",
+        "reviewerEmail": "ryan.miller@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Nice slim fit and good length. Material is soft and breathable.",
+        "date": "2024-05-21T08:56:21.623Z",
+        "reviewerName": "Chris Taylor",
+        "reviewerEmail": "chris.taylor@x.dummyjson.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Decent shirt but runs a bit small. Order one size up.",
+        "date": "2024-05-20T08:56:21.623Z",
+        "reviewerName": "Lisa Anderson",
+        "reviewerEmail": "lisa.anderson@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Good casual shirt. Button placket adds nice detail.",
+        "date": "2024-05-19T08:56:21.623Z",
+        "reviewerName": "Mark Thompson",
+        "reviewerEmail": "mark.thompson@x.dummyjson.com"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "title": "Mens Cotton Jacket",
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "price": 55.99,
+    "rating": 5,
+    "stock": 500,
+    "brand": "Outdoor Essential",
+    "tags": ["clothing", "jackets", "outdoor wear"],
+    "images": ["https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"],
+    "thumbnail": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Perfect weight for spring and fall. Great versatile jacket!",
+        "date": "2024-05-23T08:56:21.623Z",
+        "reviewerName": "John Martinez",
+        "reviewerEmail": "john.martinez@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Excellent quality cotton, very comfortable and durable.",
+        "date": "2024-05-22T08:56:21.623Z",
+        "reviewerName": "David Lee",
+        "reviewerEmail": "david.lee@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great for outdoor activities. Water resistant and warm.",
+        "date": "2024-05-21T08:56:21.623Z",
+        "reviewerName": "Thomas Wilson",
+        "reviewerEmail": "thomas.wilson@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Fits perfectly and looks stylish. Good for casual and outdoor wear.",
+        "date": "2024-05-20T08:56:21.623Z",
+        "reviewerName": "Kevin Zhang",
+        "reviewerEmail": "kevin.zhang@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Bought it as a gift, recipient loves it! Great quality for the price.",
+        "date": "2024-05-19T08:56:21.623Z",
+        "reviewerName": "Maria Garcia",
+        "reviewerEmail": "maria.garcia@x.dummyjson.com"
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "title": "Mens Casual Slim Fit",
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "price": 15.99,
+    "rating": 2,
+    "stock": 430,
+    "brand": "Casual Style",
+    "tags": ["clothing", "men's fashion", "casual wear"],
+    "images": ["https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"],
+    "thumbnail": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Size chart is way off. Had to return for a different size.",
+        "date": "2024-05-23T08:56:21.623Z",
+        "reviewerName": "Robert Johnson",
+        "reviewerEmail": "robert.johnson@x.dummyjson.com"
+      },
+      {
+        "rating": 1,
+        "comment": "Poor quality material, started pilling after first wash.",
+        "date": "2024-05-22T08:56:21.623Z",
+        "reviewerName": "Andrew Smith",
+        "reviewerEmail": "andrew.smith@x.dummyjson.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Decent for the price, but nothing special.",
+        "date": "2024-05-21T08:56:21.623Z",
+        "reviewerName": "Peter Wong",
+        "reviewerEmail": "peter.wong@x.dummyjson.com"
+      },
+      {
+        "rating": 2,
+        "comment": "Color is different from the picture. Fabric feels cheap.",
+        "date": "2024-05-20T08:56:21.623Z",
+        "reviewerName": "Michelle Lee",
+        "reviewerEmail": "michelle.lee@x.dummyjson.com"
+      },
+      {
+        "rating": 2,
+        "comment": "Fit is inconsistent. Wouldn't recommend.",
+        "date": "2024-05-19T08:56:21.623Z",
+        "reviewerName": "Brian Taylor",
+        "reviewerEmail": "brian.taylor@x.dummyjson.com"
+      }
+    ]
+  }
+]
