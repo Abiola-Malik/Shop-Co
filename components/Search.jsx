@@ -6,6 +6,7 @@ import { BiSearch } from 'react-icons/bi';
 import debounce from 'lodash.debounce';
 import { Dialog, DialogTrigger, DialogContent, DialogTitle } from './ui/dialog';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 
 const Search = () => {
   const [searchTerm, setSearchTerm] = useState('');

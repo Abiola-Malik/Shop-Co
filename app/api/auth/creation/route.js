@@ -52,7 +52,7 @@ export async function GET() {
     }
 
     // ✅ Redirect after successful operation
-    return NextResponse.redirect('http://localhost:3000');
+    return NextResponse.redirect('/');
   } catch (error) {
     console.error('Error in GET handler:', error.message);
     return NextResponse.json(
