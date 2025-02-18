@@ -15,6 +15,7 @@ import {
   AccordionTrigger,
   AccordionContent,
 } from '@/components/ui/accordion';
+import { BASE_URL } from '@/constants';
 
 const page = async ({ params }) => {
   let foundUser = null;
@@ -28,7 +29,7 @@ const page = async ({ params }) => {
   }
 
   if (!foundUser) {
-    redirect('/login');
+    redirect(`${BASE_URL}/api/auth/login`);
   }
 
   const { id } = params;
