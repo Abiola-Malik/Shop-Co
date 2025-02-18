@@ -6,7 +6,8 @@ import { Separator } from '@/components/ui/separator';
 import SizeSelector from '@/components/SizeSelector';
 import AddToCart from '@/components/AddToCart';
 import { getUser } from '@/actions/user.actions';
-import { toast } from '@/components/ui/use-toast';
+import { toast } from 'sonner';
+
 import {
   Accordion,
   AccordionItem,
