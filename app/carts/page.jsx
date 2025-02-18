@@ -4,6 +4,7 @@ import { getCartItems } from '@/actions/cart.action';
 import { getUser } from '@/actions/user.actions';
 import CartClient from './CartClient';
 import { getKindeServerSession } from '@kinde-oss/kinde-auth-nextjs/server';
+import { BASE_URL } from '@/constants';
 
 export const metadata = {
   title: 'Cart',
@@ -21,7 +22,7 @@ const CartPage = async () => {
           Please log in to view your cart
         </h2>
         <a
-          href='/api/auth/login'
+          href={`${BASE_URL}/api/auth/login`}
           className='px-6 py-3 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition'
         >
           Login

@@ -1,5 +1,6 @@
 import { database } from '@/app/appwrite/appwrite';
 import { appwriteConfig } from '@/app/appwrite/appwriteConfig';
+import { BASE_URL } from '@/constants';
 import { getKindeServerSession } from '@kinde-oss/kinde-auth-nextjs/server';
 import { ID, Query } from 'appwrite';
 import { NextResponse } from 'next/server';
@@ -52,7 +53,7 @@ export async function GET() {
     }
 
     // ✅ Redirect after successful operation
-    return NextResponse.redirect('/');
+    return NextResponse.redirect(`${BASE_URL}`);
   } catch (error) {
     console.error('Error in GET handler:', error.message);
     return NextResponse.json(
