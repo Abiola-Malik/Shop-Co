@@ -6,6 +6,7 @@ import { Separator } from '@/components/ui/separator';
 import SizeSelector from '@/components/SizeSelector';
 import AddToCart from '@/components/AddToCart';
 import { getUser } from '@/actions/user.actions';
+import { toast } from '@/components/ui/use-toast';
 import {
   Accordion,
   AccordionItem,
@@ -15,9 +16,17 @@ import {
 
 const page = async ({ params }) => {
   const { foundUser } = await getUser();
-  // console.log(foundUser);
+
   const { id } = await params;
   const specificProduct = await getProductById(id);
+
+  const handleGuestClick = () => {
+    toast({
+      title: 'Authentication required',
+      description: 'Please login to add items to your cart',
+      variant: 'destructive',
+    });
+  };
 
   return (
     <div className='container mx-auto p-8 '>
@@ -42,14 +51,23 @@ const page = async ({ params }) => {
           {/* Select Size */}
           <SizeSelector />
           <Separator className='space-y-2' />
-          <AddToCart
-            userId={foundUser.$id}
-            productId={String(specificProduct.id)}
-            image={specificProduct.images[0]}
-            quantity={1}
-            price={specificProduct.price}
-            title={specificProduct.title}
-          />
+          {foundUser ? (
+            <AddToCart
+              userId={foundUser.$id}
+              productId={String(specificProduct.id)}
+              image={specificProduct.images[0]}
+              quantity={1}
+              price={specificProduct.price}
+              title={specificProduct.title}
+            />
+          ) : (
+            <button
+              onClick={handleGuestClick}
+              className='w-full py-3 px-4 bg-gray-300 text-gray-600 rounded-md cursor-not-allowed'
+            >
+              Add to Cart (Login Required)
+            </button>
+          )}
         </div>
       </div>
       <section className='py-16 container mx-auto'>
