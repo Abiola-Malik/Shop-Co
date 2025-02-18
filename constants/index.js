@@ -52,3 +52,5 @@ export const reviews = [
     date: '2024-06-25',
   },
 ];
+
+export const BASE_URL = process.env.NEXT_PUBLIC_API_URL;

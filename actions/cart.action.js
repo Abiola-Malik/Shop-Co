@@ -2,6 +2,7 @@ import { database } from '@/app/appwrite/appwrite';
 import { appwriteConfig } from '@/app/appwrite/appwriteConfig';
 import { Query } from 'appwrite';
 import { toast } from 'sonner';
+import { BASE_URL } from '@/constants';
 const { databaseId, cartCollectionId, cartItemsCollectionId } = appwriteConfig;
 
 // export const AddProductToCart = async ({
@@ -47,7 +48,7 @@ export const AddProductToCart = async ({
   image,
 }) => {
   try {
-    const response = await fetch('/api/cart', {
+    const response = await fetch(`${BASE_URL}/api/cart`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
