@@ -7,6 +7,7 @@ import SizeSelector from '@/components/SizeSelector';
 import AddToCart from '@/components/AddToCart';
 import { getUser } from '@/actions/user.actions';
 import { toast } from 'sonner';
+import { redirect } from 'next/navigation';
 
 import {
   Accordion,
@@ -23,19 +24,15 @@ const page = async ({ params }) => {
     foundUser = userResult?.foundUser || null;
   } catch (error) {
     console.error('⚠️ Error fetching user data:', error);
-    foundUser = null; // Ensure it never crashes
+    foundUser = null;
+  }
+
+  if (!foundUser) {
+    redirect('/login');
   }
 
   const { id } = params;
   const specificProduct = await getProductById(id);
-
-  const handleGuestClick = () => {
-    toast({
-      title: 'Authentication required',
-      description: 'Please login to add items to your cart',
-      variant: 'destructive',
-    });
-  };
 
   return (
     <div className='container mx-auto p-8 '>
@@ -60,24 +57,14 @@ const page = async ({ params }) => {
           <SizeSelector />
           <Separator className='space-y-2' />
 
-          {/* Allow adding to cart only for logged-in users */}
-          {foundUser ? (
-            <AddToCart
-              userId={foundUser.$id}
-              productId={String(specificProduct.id)}
-              image={specificProduct.images[0]}
-              quantity={1}
-              price={specificProduct.price}
-              title={specificProduct.title}
-            />
-          ) : (
-            <button
-              onClick={handleGuestClick}
-              className='w-full py-3 px-4 bg-gray-300 text-gray-600 rounded-md cursor-not-allowed'
-            >
-              Add to Cart (Login Required)
-            </button>
-          )}
+          <AddToCart
+            userId={foundUser.$id}
+            productId={String(specificProduct.id)}
+            image={specificProduct.images[0]}
+            quantity={1}
+            price={specificProduct.price}
+            title={specificProduct.title}
+          />
         </div>
       </div>
     </div>
