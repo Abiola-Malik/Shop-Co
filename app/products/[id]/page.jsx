@@ -16,6 +16,7 @@ import {
 
 const page = async ({ params }) => {
   const { foundUser } = await getUser();
+  if (!foundUser) return null;
 
   const { id } = await params;
   const specificProduct = await getProductById(id);
